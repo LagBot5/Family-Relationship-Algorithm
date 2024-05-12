@@ -17,4 +17,3 @@ Our algorithm is to put a family tree into an invisible tree. We can determine t
 6. Check how far the distance of their similarities (parents/grandparents)
 7. Print what that ‘chosen’ person is to the ‘compare’ person.
 
-hello
