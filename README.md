@@ -11,4 +11,9 @@ Our algorithm is to put a family tree into an invisible tree. We can determine t
 ## Psuedocode
 1. A class of names with different properties.
 2.  Let ‘gen’ be a list of different groups of names ordered in generations
+3. Let ‘chosen’ be a certain person to compare with a different person.
+4. Let ‘compare’ be another person to compare with the chosen person.
+5. Find a way to find the original (parent) group to determine if they are a sibling, parent, cousin, etc.
+6. Check how far the distance of their similarities (parents/grandparents)
+7. Print what that ‘chosen’ person is to the ‘compare’ person.
 
